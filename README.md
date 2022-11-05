@@ -26,13 +26,9 @@ Alternatively you can set up a local development environment by cloning the proj
 - XCode (latest version preferred)
 - Git
  
-# Create a bug report
- 
-If you encounter a bug or unexpected behavior while using the application, please report it [here](mailto:lirimmaloku98@gmail.com).
- 
-## Submit a feature request
- 
-If you feel like you have a good idea about any additions that can be made on the application, feel free to mail us with the details at [support@iosapp.com](mailto:lirimmaloku98@gmail.com).
+# Application Objectives
+
+Main objectives of this application were to get familiar with Swift UIKit library and get familiar with Swift controls in order to get the first steps of building different iOS applications.
  
 # Useful Links
  
